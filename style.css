@@ -28,7 +28,7 @@ body {
 	letter-spacing: 2px;
 }
 
-.tagline {
+#tagline {
 	color: #ffffff;
 	text-align: center;
 	font-size: 3vw;
